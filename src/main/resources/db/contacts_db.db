@@ -1,0 +1,18 @@
+log-users-jul/
+    src/
+        main/
+            java/
+                org/example/app/
+                    model/
+                        Contact.java
+                    util/
+                        DatabaseManager.java
+                    App.java
+            resources/
+                db/
+                    contacts_db.db
+                LOGS/
+                    app_logs.log
+                log4j2.xml
+    target/
+    pom.xml
